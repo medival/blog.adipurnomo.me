@@ -1,0 +1,12 @@
+{
+  "name": "medivaliverse",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write '**/README.md'",
+    "serve": "docsify serve ."
+  },
+  "devDependencies": {
+    "docsify": "^4.12.2",
+    "prettier": "^2.3.2"
+  }
+}
